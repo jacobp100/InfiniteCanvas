@@ -11,6 +11,7 @@
 		163A2EA62B934419000D8FAF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 163A2EA52B934419000D8FAF /* ContentView.swift */; };
 		163A2EA82B93441A000D8FAF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 163A2EA72B93441A000D8FAF /* Assets.xcassets */; };
 		163A2EAC2B93441A000D8FAF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 163A2EAB2B93441A000D8FAF /* Preview Assets.xcassets */; };
+		163A2EB32B93442A000D8FAF /* InfiniteCanvas.swift in Sources */ = {isa = PBXBuildFile; fileRef = 163A2EB22B93442A000D8FAF /* InfiniteCanvas.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		163A2EA72B93441A000D8FAF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		163A2EA92B93441A000D8FAF /* InfiniteCanvas.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = InfiniteCanvas.entitlements; sourceTree = "<group>"; };
 		163A2EAB2B93441A000D8FAF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		163A2EB22B93442A000D8FAF /* InfiniteCanvas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfiniteCanvas.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				163A2EA32B934419000D8FAF /* InfiniteCanvasApp.swift */,
 				163A2EA52B934419000D8FAF /* ContentView.swift */,
+				163A2EB22B93442A000D8FAF /* InfiniteCanvas.swift */,
 				163A2EA72B93441A000D8FAF /* Assets.xcassets */,
 				163A2EA92B93441A000D8FAF /* InfiniteCanvas.entitlements */,
 				163A2EAA2B93441A000D8FAF /* Preview Content */,
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				163A2EA62B934419000D8FAF /* ContentView.swift in Sources */,
+				163A2EB32B93442A000D8FAF /* InfiniteCanvas.swift in Sources */,
 				163A2EA42B934419000D8FAF /* InfiniteCanvasApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
